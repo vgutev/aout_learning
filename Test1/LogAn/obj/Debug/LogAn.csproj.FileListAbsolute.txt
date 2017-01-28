@@ -1,0 +1,7 @@
+H:\GIT\C#\C#_common\AOT_mine\Test1\LogAn\bin\Debug\LogAn.dll
+H:\GIT\C#\C#_common\AOT_mine\Test1\LogAn\bin\Debug\LogAn.pdb
+H:\GIT\C#\C#_common\AOT_mine\Test1\LogAn\bin\Debug\nunit.framework.dll
+H:\GIT\C#\C#_common\AOT_mine\Test1\LogAn\bin\Debug\nunit.framework.xml
+H:\GIT\C#\C#_common\AOT_mine\Test1\LogAn\obj\Debug\LogAn.csprojResolveAssemblyReference.cache
+H:\GIT\C#\C#_common\AOT_mine\Test1\LogAn\obj\Debug\LogAn.dll
+H:\GIT\C#\C#_common\AOT_mine\Test1\LogAn\obj\Debug\LogAn.pdb
